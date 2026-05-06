@@ -60,34 +60,44 @@ Built with **Laravel 10**, **MySQL**, **Yajra DataTables**, and **Laravel Mail**
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="1878" height="913" alt="Main Page" src="https://github.com/user-attachments/assets/df15efd0-506f-4459-987c-dc49d36a8b15" />
+
 
 ### Products Catalog
-![Products](screenshots/products.png)
+<img width="1919" height="907" alt="Products" src="https://github.com/user-attachments/assets/4e4c05ec-781c-40a5-9c9b-03e64cd5ab8a" />
+
 
 ### Product Detail
-![Product Detail](screenshots/product-detail.png)
+<img width="1901" height="898" alt="Product" src="https://github.com/user-attachments/assets/650e0a54-cc43-4854-a8fb-d0e2628b0f1a" />
+
 
 ### Checkout
-![Checkout](screenshots/checkout.png)
+<img width="1692" height="794" alt="Cart" src="https://github.com/user-attachments/assets/b417cf04-1690-4d5f-944d-71e50c36799e" />
+
 
 ### Contact
-![Contact](screenshots/contact.png)
+<img width="1877" height="901" alt="Contact me" src="https://github.com/user-attachments/assets/002e8df5-54fb-4267-ad4a-7aec592b2c25" />
+
 
 ### Admin Login
-![Admin Login](screenshots/admin-login.png)
+<img width="1714" height="804" alt="Admin Login" src="https://github.com/user-attachments/assets/90d50164-5f97-4b4e-9927-1cfb82761bef" />
+
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img width="1680" height="804" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/0bf4fd94-da30-482b-a969-6dc8683e9402" />
+
 
 ### Admin — Products Table (Yajra DataTables)
-![Admin Products](screenshots/admin-products.png)
+<img width="1689" height="802" alt="Admin Dashboard 2" src="https://github.com/user-attachments/assets/ed236b14-e394-457c-832e-50afa58743ac" />
+
 
 ### Admin — Orders Table
-![Admin Orders](screenshots/admin-orders.png)
+<img width="1687" height="785" alt="Admin Dashboard 3" src="https://github.com/user-attachments/assets/e1355543-4bdd-4eca-91c9-3e1c31fe2058" />
+
 
 ### Admin — Customers Table
-![Admin Users](screenshots/admin-users.png)
+<img width="1681" height="801" alt="image" src="https://github.com/user-attachments/assets/ee82cb4b-1321-4128-ac6b-b5ef942e0b10" />
+
 
 ---
 
